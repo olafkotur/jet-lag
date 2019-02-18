@@ -3,6 +3,6 @@
 Heavily inspired by a flappy bird concept, made entirely to learn Python.
 
 ### To Run
-'''
-python3 jetlag.py
-'''
+```
+python3 jet-lag.py
+```
